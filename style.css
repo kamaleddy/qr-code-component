@@ -9,7 +9,7 @@
 }
 
 *:not(html):not(body) {
-  border: 1px dashed #525252;
+  /* border: 1px dashed #525252; */
 }
 
 :root {
@@ -39,6 +39,7 @@ body {
   padding: 16px;
   border-radius: 20px;
   background: var(--container-color);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 .img-content {
