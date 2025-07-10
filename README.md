@@ -28,7 +28,7 @@ This project challenged me to build a responsive QR code component that focused 
 
 ### Links
 
-- Solution URL: [My solution](https://github.com/kamaleddy/qr-code-component.git)
+- Solution URL: [My solution](https://www.frontendmentor.io/solutions/build-qr-code-component-using-html-and-css-9PJHmIzGhO)
 - Live Site URL: [Live site](https://kamaleddy.github.io/qr-code-component/)
 
 ## My process
