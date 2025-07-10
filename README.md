@@ -29,7 +29,7 @@ This project challenged me to build a responsive QR code component that focused 
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/kamaleddy/qr-code-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://kamaleddy.github.io/qr-code-component/)
 
 ## My process
 
