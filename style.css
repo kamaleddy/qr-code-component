@@ -27,13 +27,12 @@ body {
 .container {
   width: 100%;
   max-width: 20rem;
-  padding: min(1rem, 3vw);
+  padding: min(1rem, 4vw);
   border-radius: 1.25em;
   background: var(--container-color);
   box-shadow: var(--shadow-soft);
   display: flex;
   flex-direction: column;
-
   align-items: center;
 }
 
