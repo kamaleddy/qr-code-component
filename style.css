@@ -31,6 +31,10 @@ body {
   border-radius: 1.25em;
   background: var(--container-color);
   box-shadow: var(--shadow-soft);
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
 }
 
 .img-content {
@@ -45,7 +49,7 @@ body {
 
 .text-content {
   width: 18em;
-  padding: 0 1em;
+  padding: 0 min(1em, 5vw);
   text-align: center;
   margin-block-end: min(1.5rem, 5vh);
 }
