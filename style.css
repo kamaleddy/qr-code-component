@@ -27,7 +27,7 @@ body {
 .container {
   width: 100%;
   max-width: 20rem;
-  padding: 16px;
+  padding: min(1rem, 3vw);
   border-radius: 20px;
   background: var(--container-color);
   box-shadow: var(--shadow-soft);
@@ -47,7 +47,7 @@ body {
   width: 288px;
   padding: 0 16px;
   text-align: center;
-  margin-bottom: 24px;
+  margin-block-end: 24px;
 }
 
 .text-content h1 {
