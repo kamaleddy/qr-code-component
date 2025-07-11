@@ -11,6 +11,8 @@
   --container-color: hsl(0, 0%, 100%);
   --main-text-color: hsl(218, 44%, 22%);
   --secondary-text-color: hsl(216, 15%, 48%);
+
+  --shadow-soft: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 body {
@@ -24,11 +26,11 @@ body {
 
 .container {
   width: 100%;
-  max-width: 320px;
-  padding: 16px 16px 0;
+  max-width: 20rem;
+  padding: 16px;
   border-radius: 20px;
   background: var(--container-color);
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  box-shadow: var(--shadow-soft);
 }
 
 .img-content {
@@ -38,14 +40,14 @@ body {
 .img-content img {
   width: 100%;
   border-radius: 10px;
-  margin-bottom: 24px;
+  margin-block-end: 24px;
 }
 
 .text-content {
   width: 288px;
   padding: 0 16px;
   text-align: center;
-  margin-bottom: 40px;
+  margin-bottom: 24px;
 }
 
 .text-content h1 {
